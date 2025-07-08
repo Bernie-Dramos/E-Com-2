@@ -22,8 +22,7 @@ export default function Home() {
                 <span className="text-gray-900">Collection</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-                Sua loja premium de eletrônicos e moda feminina em Moçambique. Qualidade, elegância e sofisticação em
-                cada produto.
+                Conectando você ao futuro.
               </p>
               <Link href="/eletronicos" className="btn-gold inline-flex items-center space-x-2">
                 <span>Comprar Agora</span>
